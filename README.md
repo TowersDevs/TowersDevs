@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Felipe Torres
 
-<!--
-**TowersDevs/TowersDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Python** focado em automações, bots e integrações com APIs.
 
-Here are some ideas to get you started:
+💼 Engenheiro de Controle e Automação em transição estratégica para o setor de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Habilidades Técnicas**:
+- Python, Pandas, Selenium, Playwright
+- Web Scraping, APIs REST, Automação de Tarefas
+- Git, GitHub, FastAPI, SQLite
+
+📂 **Projetos em Destaque**:
+- **Bot de Relatórios Automáticos**: coleta dados do IpeaData, gera PDF com matplotlib e envia por e-mail.
+- **Organizador de Arquivos**: classifica e move arquivos automaticamente por extensão.
+- **Leitor de E-mails Automatizado**: lê e-mails, baixa anexos e organiza arquivos.
+
+🔗 **Links Úteis**:
+- [GitHub](https://github.com/TowersDevs)
+- [LinkedIn](https://www.linkedin.com/in/felipe-torres-b03b73357)
+
+📫 **Contato**: felipearaujo178@outlook.com
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TowersDevs&show_icons=true&theme=radical)
