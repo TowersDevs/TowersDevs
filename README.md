@@ -9,7 +9,7 @@
 
 - **Linguagens e Frameworks:** Python 3.11, Pandas, Selenium, Playwright, BeautifulSoup, FastAPI, openpyxl, Matplotlib  
 - **Automação e Dados:** Web scraping, automação de tarefas, envio de e-mails automatizados, organização de arquivos, consumo de APIs REST  
-- **Ferramentas:** Git, GitHub, PDFKit, SQLite, Excel (interação via código)
+- **Ferramentas:** Git, GitHub, PDFKit, SQL, Excel (interação via código)
 
 ---
 
