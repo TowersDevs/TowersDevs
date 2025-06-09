@@ -37,4 +37,4 @@
 
 - [GitHub](https://github.com/TowersDevs)
 - [LinkedIn](https://linkedin.com/in/felipe-torres-b03b73357)
-- 📩 felipearaujo178@outlook.com
+- felipearaujo178@outlook.com
