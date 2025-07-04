@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou o Felipe Torres
 
-Engenheiro de Automação em transição estratégica para o ecossistema digital. Hoje atuo com customer success, suporte técnico, desenvolvimento de automações e integração de sistemas. Meu foco é criar soluções que economizam tempo, reduzem erros e melhoram a experiência de clientes e equipes.
+Engenheiro de Automação em transição estratégica para o ecossistema digital.
+Atualmente trabalho com automação industrial, mas estou migrando para o mundo digital por meio de projetos freelance, desenvolvimento de bots, web scrapers e integração de sistemas.
+Crio soluções que automatizam tarefas repetitivas, reduzem erros operacionais, economizam tempo e melhoram a experiência de clientes e equipes. Meu foco é entregar automações personalizadas que resolvem problemas reais e eliminam trabalho manual.
 
 ---
 
@@ -25,19 +27,6 @@ Engenheiro de Automação em transição estratégica para o ecossistema digital
 
 ---
 
-## Foco Atual
-
-- Customer Success
-- Suporte Técnico 
-- Integração de Sistemas
-- Produto Digital
-- Ecossistema SaaS
-- Projetos com impacto direto no cliente e nas operações
-
----
-
 ## Conecte-se comigo
 
-- [GitHub](https://github.com/TowersDevs)
-- [LinkedIn](https://linkedin.com/in/felipetorres-tech)
 - felipearaujo178@outlook.com
